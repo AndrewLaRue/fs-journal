@@ -10,16 +10,16 @@ const
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-a method...
+A set of statements that performs a task or calculate a number
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-Single
-O
-L
-I
-D
+Single responsibility
+Open-closed principle
+Liskov-substitution principle
+Interface segregation principle
+Dependency inversion principle
 
 ```
 **4.** Given this array: 
@@ -40,7 +40,7 @@ let them = { name:"Them", hair: false, friends: [] }
 how would you .push the `them` object into the `you` object's array of friends?
 <!-- enter you answer in the space below -->
 ```
-you.push(them);
+you.friends.push(them)
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
@@ -59,7 +59,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-google
+increment
 i++
 
 ```
@@ -75,7 +75,8 @@ Model
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-google
+primitve values bool, null undefined number bigint, string, symbol
+objects/ arrays
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
