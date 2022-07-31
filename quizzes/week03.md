@@ -60,5 +60,5 @@ The logical center of a project.  It handles any changes to the DOM and is the o
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-Objects and templates used to build things.
+Blueprints and templates used to build things.
 ```
