@@ -16,7 +16,7 @@ Single page application
 **3.** What are some of the advantages/uses of a `SPA` over a traditional one?
 <!-- enter you answer in the space below -->
 ```
-TODO
+faster loading times, less bandwidth used, simple ux.
 
 ```
 **4.** What does the `onMounted` method in Vue do?
@@ -27,12 +27,12 @@ runs the contained code as soon as the page runs.
 **5.** What is the `v-model` attribute in Vue for, and when might you use it?
 <!-- enter you answer in the space below -->
 ```
-TODO
+ to create two-way data bindings on form input, textarea, and select elements.
 ```
 **6.** The `v:on` (`@`) directive can be used for what?
 <!-- enter you answer in the space below -->
 ```
-TODO
+@click, @submit
 ```
 **7.** Which Vue attributes(directives) could you use to conditionally render elements on a page?
 <!-- enter you answer in the space below -->
